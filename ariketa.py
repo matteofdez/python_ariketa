@@ -69,6 +69,9 @@ numeros_par(n)
 
 print('Ejercicio 6: Función para invertir una cadena' \
 'Crea invertir_cadena(cadena) que devuelva la cadena invertida.')
+texto = input("Introduce una cadena de texto: ")
+invertida = invertir_cadena(texto)
+print(f"La cadena invertida es: {invertida}")
 
 
 
