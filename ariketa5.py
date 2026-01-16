@@ -1,6 +1,7 @@
 print('Ejercicio 5: Función para generar una lista de números pares hasta N ' \
 'Crea numeros_par(n) que devuelva una lista con todos los números pares desde 0 hasta n.' \
 'n se deben de obtener por teclado')
+#La función de lista de numeros pares hasta n
 def numeros_par(n):
     pares = []
     i = 0
