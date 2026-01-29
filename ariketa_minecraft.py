@@ -7,5 +7,5 @@ for cor in cords:
     #Divide entre la clave (xyz) y valor (numero)
     clave, valor = cor.split("=")  
     #Añade al diccionario
-    diccionario[clave] = int(valor)  
+    diccionario[clave] = int(valor)
 print(diccionario)
